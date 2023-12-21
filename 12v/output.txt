@@ -1,0 +1,8 @@
+Original content:
+Test text in this file TEXT
+
+
+The count of uppercase letters in the text: 5
+Words with minimum length: in 
+Modified content:
+Test TEXT 
